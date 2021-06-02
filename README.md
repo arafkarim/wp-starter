@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/arafkarim/wp-starter/master/screenshot.png">
 
 # wp-starter
-Simple boilerplate code for WordPress theme development
+<b>Simple boilerplate code for WordPress theme development</b>
 
 Version: 1.0 <br/>
 Requires at least: 5.0 <br/>
