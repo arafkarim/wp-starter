@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/arafkarim/wp-starter/master/screenshot.png">
+<img src="https://raw.githubusercontent.com/arafkarim/wp-starter/master/screenshot.png" width="250">
 
 # wp-starter
 Simple boilerplate code for WordPress theme development
