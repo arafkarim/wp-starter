@@ -1,7 +1,7 @@
 # wp-starter
 Simple boilerplate code for WordPress theme development
 
-Version: 1.0 
+Version: 1.0 <br/>
 Requires at least: 5.0 
 Tested up to: 5.4 
 Requires PHP: 7.0 
