@@ -13,5 +13,5 @@ License: <a href="http://www.gnu.org/licenses/gpl-2.0.html">GNU General Public L
  - Change textdomain 
 
 ### Support
- - Star our GitHub repo<br/>
+ - Star this GitHub repo<br/>
  - Create pull requests, submit bugs, suggest new features or documentation updates
