@@ -19,5 +19,5 @@ License: <a href="http://www.gnu.org/licenses/gpl-2.0.html">GNU General Public L
  - Star this GitHub repo<br/>
  - Create pull requests, submit bugs, suggest new features or documentation updates
 
-## Get in touch
+### Get in touch
 🐤[Twitter](https://twitter.com/arafkarim)
