@@ -13,6 +13,7 @@ License: <a href="http://www.gnu.org/licenses/gpl-2.0.html">GNU General Public L
  - Download/pull 
  - Change theme name (folder name also)
  - Change textdomain 
+ - That's all
 
 ### Support
  - Star this GitHub repo<br/>
